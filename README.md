@@ -1,7 +1,6 @@
 # To-DO-List
 
 To Do List SSR nodejs ,postgress, EJS
-Here is a sample `README.md` file for your project:
 
 ---
 
